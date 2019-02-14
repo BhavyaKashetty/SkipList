@@ -1,5 +1,8 @@
-/*
+"""
 Skip lists
+@author
+Name: Bhavya Kashetty
+"""
  
 import java.util.Iterator;
 import java.util.Random;
